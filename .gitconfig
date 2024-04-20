@@ -37,6 +37,9 @@
     # dark = true
     # light = true
 
+[pager]
+    blame = delta
+
 [merge]
     conflictstyle = diff3
 
