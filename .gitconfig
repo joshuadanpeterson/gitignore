@@ -25,6 +25,7 @@
 [delta]
     navigate = true    # use n and N to move between diff sections
     line-numbers = true # set line numbers
+    side-by-side = true # set side by side preview
 
     # delta detects terminal colors automatically; set one of these to disable auto-detection
     # dark = true
