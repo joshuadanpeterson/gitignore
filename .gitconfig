@@ -19,6 +19,10 @@
 	rebase = false
 
 # Set delta config
+
+[include]
+    path = ~/.config/gitconfig/delta/themes.gitconfig
+
 [interactive]
     diffFilter = delta --color-only
 
